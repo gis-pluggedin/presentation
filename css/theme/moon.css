@@ -38,6 +38,11 @@ body {
 /*********************************************
  * HEADERS
  *********************************************/
+.reveal header {
+  border: 5px solid #FFFFFF;
+  border-width: 0 0 5px 0;
+  margin-bottom: 20px; }
+
 .reveal h1,
 .reveal h2,
 .reveal h3,
